@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+.gameScore {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-20%);
+    padding: 5px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: antiquewhite;
+}
